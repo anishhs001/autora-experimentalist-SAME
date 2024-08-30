@@ -7,11 +7,11 @@ You will need:
 *autora-experimentalist-example is a part of the `autora` package:
 
 ```shell
-pip install -U autora["experimentalist-autora-experimentalist-example"]
+pip install -U autora["experimentalist-autora-experimentalist-SAME"]
 ```
 
 
 Check your installation by running:
 ```shell
-python -c "from autora.experimentalist.autora_experimentalist_example import Example"
+python -c "from autora.experimentalist.autora_experimentalist_SAME import SAME_sample_type_alpha"
 ```
