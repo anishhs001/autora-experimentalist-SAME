@@ -1,24 +1,13 @@
-# autora-experimentalist-example
+# autora-experimentalist-SAME
 
-Explain what your contribution is doing here
+Different types of sampling methods have been created making use of grid search, novelty sampler and model disagreement sampler.
+The one giving the best results is the alpha type experimentalist which combines the variant ‘grid search’ method and the novelty sampler to provide a diverse set of samples.
 
-You can include inline mathematics by wrapping LaTeX formatted math in `$` symbols: `$(3 < 4)$` will render as:  $(3 < 4)$
-
-To include block mathematics wrap the expression with double `$$`:
-
-```
-$$
-E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_j c_j h_j
-$$
-```
-
-Will render as:
-
-$$
-E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_j c_j h_j
-$$
+ 
 
 
-See more information on writing mathematical expressions [here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions). 
+// Challenge related side note(To possibly get the best scoring metric value which uses summation of errors, the grid search would need to start from the middle of the grid and go on to the sides)
+
+
 
 
