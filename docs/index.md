@@ -6,7 +6,7 @@ The one giving the best results is the alpha type experimentalist which combines
  
 
 
-// Challenge related side note(To possibly get the best scoring metric value which uses summation of errors, the grid search would need to start from the middle of the grid and go on to the sides)
+###### Challenge related side note (To possibly get the best scoring metric value which uses summation of errors, the grid search would need to start from the middle of the grid and go on to the sides)
 
 
 
